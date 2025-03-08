@@ -10,6 +10,5 @@ Welcome to the **Number Guessing Game**! This is a simple, interactive web-based
 - Input validation to ensure guesses are within the valid range (1-100).
 - Smooth animations and hover effects for an engaging experience.
 
-## Demo
-Try the game live [here](#) (add a link if hosted, e.g., on GitHub Pages).
+
 
